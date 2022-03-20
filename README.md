@@ -1,6 +1,7 @@
 # lesson1
 
 ## Networking
+Router
 /etc/host
 ipconfig -a
 IP address
